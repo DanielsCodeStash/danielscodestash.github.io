@@ -63,6 +63,8 @@
       .data(data)
       .groupBy(["g1", "g2"])
       .select("#d3-graph")
+      .height("1000")
+      .width("600")
       .sum("value")
       .render();
 
