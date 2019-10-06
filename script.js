@@ -54,7 +54,7 @@ window.app.resizeChart = function() {
     document.getElementById('topPanel').setAttribute("style","height: " + 60 + "px");
     document.getElementById('mainPanel').setAttribute("style","padding-left:10px");
 
-    window.app.treemap.width(w-40);
+    window.app.treemap.width(w-20);
     window.app.treemap.height(h-60-50);
 
     window.app.treemap.render();
