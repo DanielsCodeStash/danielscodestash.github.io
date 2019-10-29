@@ -3,6 +3,16 @@ window.app = {};
 
 window.onload = function(){
 
+    $('#forwardButton').click(function(e) {  
+      window.app.changeData("data/201909.json");
+    });
+
+    $('#backButton').click(function(e) {  
+      window.app.changeData("data/201910.json");
+    });
+
+
+    window.app.displayMonth("data/201909.json");
     $.getJSON("data/201909.json", function(json) {
 
       window.app.treemap = new d3plus.Treemap()
@@ -14,6 +24,30 @@ window.onload = function(){
 
       window.app.resizeChart();
   });    
+  
+}
+
+window.app.displayMonth = function(datapath) {
+  const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+
+    var prefixLength = "data/".length;
+    var yearLength = 4;
+    var monthLength = 2;
+
+    var year = datapath.substring(prefixLength, prefixLength+yearLength);
+    var month = datapath.substring(prefixLength + yearLength, prefixLength + yearLength+ monthLength);
+
+    var text = monthNames[month-1] + " " + year;
+
+    $("#activeMonth").text(text);
+} 
+
+window.app.changeData = function(datapath) {
+  window.app.displayMonth(datapath);
+  window.app.treemap.data(datapath);
+  window.app.treemap.render();
   
 }
 
