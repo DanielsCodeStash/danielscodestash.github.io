@@ -3,32 +3,29 @@
     { "g1": "Bostad", "g2": "Ränta", "value": 2092 },
     { "g1": "Bostad", "g2": "Hyra", "value": 2618 },
     { "g1": "Bostad", "g2": "Vatten", "value": 200 },
-    { "g1": "Bostad", "g2": "El", "value": 325 },
+    { "g1": "Bostad", "g2": "El", "value": 544 },
 
     { "g1": "Fasta utgift", "g2": "Tandvård", "value": 98 },
     { "g1": "Fasta utgift", "g2": "Akassa", "value": 110 },
     { "g1": "Fasta utgift", "g2": "CSN", "value": 594 },
-    { "g1": "Fasta utgift", "g2": "Försäkring", "value": 98 },
+    { "g1": "Fasta utgift", "g2": "Försäkring", "value": 185 },
     { "g1": "Fasta utgift", "g2": "Linser", "value": 350 },
     { "g1": "Fasta utgift", "g2": "Telfon", "value": 99 },
     { "g1": "Fasta utgift", "g2": "Bank", "value": 35 },
-    { "g1": "Fasta utgift", "g2": "Streaming", "value": 350 },
-    { "g1": "Fasta utgift", "g2": "Västtrafik", "value": 566 },
+    { "g1": "Fasta utgift", "g2": "Streaming", "value": 300 },
+    { "g1": "Fasta utgift", "g2": "Västtrafik", "value": 108 },
 
-    { "g1": "Base", "g2": "Mat och bas", "value": 5456 },
-    { "g1": "Base", "g2": "Öl", "value": 1194 },
+    { "g1": "Base", "g2": "Mat och bas", "value": 3178 },
+    { "g1": "Base", "g2": "Öl", "value": 480 },
+    { "g1": "Base", "g2": "Mat ute", "value": 624 },
 
-    { "g1": "One time", "g2": "Bulk tandvård", "value": 1600 },
-    { "g1": "One time", "g2": "Plantering LED", "value": 750 },
-    { "g1": "One time", "g2": "Hörlurar", "value": 900 },
-    { "g1": "One time", "g2": "Lödning/Multimeter", "value": 600 },
-    { "g1": "One time", "g2": "Kassaskåp", "value": 500 },
-    { "g1": "One time", "g2": "Datorspel", "value": 400 },
-
+    { "g1": "One time", "g2": "Kosttillskott", "value": 575 },
+    { "g1": "One time", "g2": "Paddel", "value": 150 },
+    { "g1": "One time", "g2": "Klippning", "value": 200 },
+    { "g1": "One time", "g2": "Vinterskor", "value": 559 },
+    { "g1": "One time", "g2": "Tandställning undersökning", "value": 500 },
 
     { "g1": "Ingrid", "g2": "Gym", "value": 399 },
-    { "g1": "Ingrid", "g2": "Telefon", "value": 99 },
-    { "g1": "Ingrid", "g2": "Spotify", "value": 49 },
 
-    { "g1": "Sparande", "g2": "Sparande", "value": 6500 }
+    { "g1": "Sparande", "g2": "Sparande", "value": 13000 }
   ]
