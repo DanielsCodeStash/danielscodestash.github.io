@@ -3,7 +3,11 @@ window.app = {};
 
 window.onload = function(){
 
-    $('#forwardButton').click(function(e) {  
+  $('#forwardButton2').click(function(e) {  
+    window.app.changeData("data/201911.json");
+  });
+
+  $('#forwardButton').click(function(e) {  
       window.app.changeData("data/201909.json");
     });
 
