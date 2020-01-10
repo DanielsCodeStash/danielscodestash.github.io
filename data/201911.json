@@ -23,9 +23,7 @@
     { "g1": "One time", "g2": "Kläder Bothers", "value": 3223},
     { "g1": "One time", "g2": "Apoteket grejer", "value": 618},
     { "g1": "One time", "g2": "Hårprodukter", "value": 660},
+    { "g1": "One time", "g2": "Tåg kramfors", "value": 974},
 
-
-    { "g1": "Sparande", "g2": "Sparande", "value": 10000 },
-
-    { "g1": "Resa", "g2": "Tåg Kramfors", "value": 974}
+    { "g1": "Sparande", "g2": "Sparande", "value": 10000 }
   ]

@@ -20,8 +20,8 @@
 	{ "g1": "Base", "g2": "Öl", "value": 905 },
 	{ "g1": "Base", "g2": "Klippning", "value": 200 },
 
-	{ "g1": "One Time", "g2": "Datorspel", "value": 673 },
-	{ "g1": "One Time", "g2": "Tandvård", "value": 945 },
+	{ "g1": "One time", "g2": "Datorspel", "value": 673 },
+	{ "g1": "One time", "g2": "Tandvård", "value": 945 },
 	
 	{ "g1": "Sparande", "g2": "Sparande", "value": 13000 }
 ]
