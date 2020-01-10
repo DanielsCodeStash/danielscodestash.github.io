@@ -1,5 +1,5 @@
 [
-    { "g1": "Bostad", "g2": "Amortering", "value": 9125 },
+    { "g1": "Bostad", "g2": "Amortering", "value": 3125 },
     { "g1": "Bostad", "g2": "Ränta", "value": 2092 },
     { "g1": "Bostad", "g2": "Hyra", "value": 2618 },
     { "g1": "Bostad", "g2": "Vatten", "value": 200 },
