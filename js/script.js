@@ -1,7 +1,14 @@
 window.app = {}
 var app = window.app;
 
+
+
 $(document).ready(function () {
+
+  $('#forwardButton3').click(function (e) {
+    app.changeData('data/201912.json')
+  })
+
   $('#forwardButton2').click(function (e) {
     app.changeData('data/201911.json')
   })

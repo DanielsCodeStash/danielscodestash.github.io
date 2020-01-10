@@ -18,10 +18,10 @@
     { "g1": "Base", "g2": "Mat och bas", "value": 3178 },
     { "g1": "Base", "g2": "Öl", "value": 480 },
     { "g1": "Base", "g2": "Mat ute", "value": 624 },
+    { "g1": "Base", "g2": "Klippning", "value": 200 },
 
     { "g1": "One time", "g2": "Kosttillskott", "value": 575 },
     { "g1": "One time", "g2": "Paddel", "value": 150 },
-    { "g1": "One time", "g2": "Klippning", "value": 200 },
     { "g1": "One time", "g2": "Vinterskor", "value": 559 },
     { "g1": "One time", "g2": "Tandställning undersökning", "value": 500 },
 
