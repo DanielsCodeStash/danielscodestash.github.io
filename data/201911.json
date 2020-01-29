@@ -1,0 +1,29 @@
+[
+    { "g1": "Bostad", "g2": "Amortering", "value": 3125 },
+    { "g1": "Bostad", "g2": "Ränta", "value": 2089 },
+    { "g1": "Bostad", "g2": "Hyra", "value": 2618 },
+    { "g1": "Bostad", "g2": "Vatten", "value": 200 },
+    { "g1": "Bostad", "g2": "El", "value": 293 },
+
+    { "g1": "Fasta utgift", "g2": "Tandvård", "value": 98 },
+    { "g1": "Fasta utgift", "g2": "Akassa", "value": 110 },
+    { "g1": "Fasta utgift", "g2": "CSN", "value": 594 },
+    { "g1": "Fasta utgift", "g2": "Försäkring", "value": 182 },
+    { "g1": "Fasta utgift", "g2": "Linser", "value": 350 },
+    { "g1": "Fasta utgift", "g2": "Telfon", "value": 99 },
+    { "g1": "Fasta utgift", "g2": "Bank", "value": 35 },
+    { "g1": "Fasta utgift", "g2": "Streaming", "value": 300 },
+    { "g1": "Fasta utgift", "g2": "Västtrafik", "value": 173 },
+
+    { "g1": "Base", "g2": "Mat och bas", "value": 4294 },
+    { "g1": "Base", "g2": "Öl", "value": 722 },
+    { "g1": "Base", "g2": "Mat ute", "value": 420 },
+
+    { "g1": "One time", "g2": "Smartlampa", "value": 348},
+    { "g1": "One time", "g2": "Kläder Bothers", "value": 3223},
+    { "g1": "One time", "g2": "Apoteket grejer", "value": 618},
+    { "g1": "One time", "g2": "Hårprodukter", "value": 660},
+    { "g1": "One time", "g2": "Tåg kramfors", "value": 974},
+
+    { "g1": "Sparande", "g2": "Sparande", "value": 10000 }
+  ]
