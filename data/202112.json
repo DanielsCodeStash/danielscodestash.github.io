@@ -1,0 +1,27 @@
+[
+	{ "g1": "Bostad", "g2": "Hyra", "value": 2618 },
+	{ "g1": "Bostad", "g2": "Ränta", "value": 1998 },
+	{ "g1": "Bostad", "g2": "Amortering", "value": 3125 },
+	{ "g1": "Bostad", "g2": "Vatten", "value": 200 },
+
+	{ "g1": "Fasta utgift", "g2": "Västtrafik", "value": 1311 },
+	{ "g1": "Fasta utgift", "g2": "Streaming", "value": 207 },
+	{ "g1": "Fasta utgift", "g2": "Telefon", "value": 123 },
+	{ "g1": "Fasta utgift", "g2": "CSN", "value": 618 },
+	{ "g1": "Fasta utgift", "g2": "Försäkring", "value": 193 },
+	{ "g1": "Fasta utgift", "g2": "Bank", "value": 35 },
+	{ "g1": "Fasta utgift", "g2": "Akassa", "value": 130 },
+	{ "g1": "Fasta utgift", "g2": "Linser", "value": 350 },
+
+	{ "g1": "Base", "g2": "Mat och bas", "value": 6033 },
+	{ "g1": "Base", "g2": "Mat ute", "value": 2479 },
+	{ "g1": "Base", "g2": "Öl", "value": 572 },
+	{ "g1": "Base", "g2": "Klippning", "value": 199 },
+
+	{ "g1": "One time", "g2": "Datorspel", "value": 67 },
+	{ "g1": "One time", "g2": "IKEA Byrå", "value": 750 },
+	{ "g1": "One time", "g2": "ID-kort skatteverket", "value": 400 },
+	{ "g1": "One time", "g2": "Boardgame", "value": 358 },
+	
+	{ "g1": "Sparande", "g2": "Sparande", "value": 21673 }
+]
