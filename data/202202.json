@@ -1,0 +1,26 @@
+[
+	{ "g1": "Bostad", "g2": "EL", "value": 561 },
+	{ "g1": "Bostad", "g2": "Hyra", "value": 2618 },
+	{ "g1": "Bostad", "g2": "Ränta", "value": 1991 },
+	{ "g1": "Bostad", "g2": "Amortering", "value": 3125 },
+	{ "g1": "Bostad", "g2": "Vatten", "value": 200 },
+
+	{ "g1": "Fasta utgift", "g2": "Västtrafik", "value": 885 },
+	{ "g1": "Fasta utgift", "g2": "Streaming", "value": 207 },
+	{ "g1": "Fasta utgift", "g2": "Telefon", "value": 143 },
+	{ "g1": "Fasta utgift", "g2": "CSN", "value": 625 },
+	{ "g1": "Fasta utgift", "g2": "Försäkring", "value": 208 },
+	{ "g1": "Fasta utgift", "g2": "Akassa", "value": 130 },
+	{ "g1": "Fasta utgift", "g2": "Bank", "value": 35 },
+	{ "g1": "Fasta utgift", "g2": "Linser", "value": 350 },
+
+	{ "g1": "Base", "g2": "Mat och bas", "value": 7224 },
+	{ "g1": "Base", "g2": "Mat ute", "value": 1507 },
+	{ "g1": "Base", "g2": "Smink", "value": 414 },
+	{ "g1": "Base", "g2": "Tandläkare", "value": 995 },
+	
+	{ "g1": "One time", "g2": "Hyra Volvo", "value": 370 },
+	
+	{ "g1": "Sparande", "g2": "Sparande", "value": 18800 }
+
+]
