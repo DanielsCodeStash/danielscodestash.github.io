@@ -1,0 +1,36 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 1081 },
+	{ "g1": "Home", "g2": "Home inscurance", "value": 39 },
+	{ "g1": "Home", "g2": "Rent", "value": 2618 },
+	{ "g1": "Home", "g2": "Interest", "value": 2592 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+
+	{ "g1": "Base", "g2": "Pharmacy", "value": 617 },
+	{ "g1": "Base", "g2": "Protein & supplements", "value": 1697 },
+	{ "g1": "Base", "g2": "CSN", "value": 625 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+	{ "g1": "Base", "g2": "Gym", "value": 449 },
+	{ "g1": "Base", "g2": "Contact lenses", "value": 350 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 6951 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 772 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 36 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 207 },
+
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 955 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1036 },
+
+	{ "g1": "Spending", "g2": "Kjell", "value": 459 },
+	{ "g1": "Spending", "g2": "Amazon", "value": 6990 },
+	{ "g1": "Spending", "g2": "Book store", "value": 199 },
+	{ "g1": "Spending", "g2": "H&M", "value": 199 },
+	{ "g1": "Spending", "g2": "Blomsterlandet", "value": 499 },
+	{ "g1": "Spending", "g2": "Stadium", "value": 849 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3125 },
+	{ "g1": "Savings", "g2": "D", "value": 14500 },
+	{ "g1": "Savings", "g2": "L", "value": 0 }
+
+]
