@@ -1,0 +1,46 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 314 },
+	{ "g1": "Home", "g2": "Rent", "value": 2618 },
+	{ "g1": "Home", "g2": "Interest", "value": 2799 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Pharmacy", "value": 622 },
+	{ "g1": "Base", "g2": "Makeup", "value": 139 },
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Protein & supplements", "value": 691 },
+	{ "g1": "Base", "g2": "Phone", "value": 198 },
+	{ "g1": "Base", "g2": "CSN", "value": 625 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+	{ "g1": "Base", "g2": "Gym", "value": 449 },
+	{ "g1": "Base", "g2": "Contact lenses", "value": 350 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 5579 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 3886 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 207 },
+	{ "g1": "Fun", "g2": "Alcohol", "value": 341 },
+
+	{ "g1": "Transport", "g2": "Gasoline", "value": 2594 },
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 245 },
+	{ "g1": "Transport", "g2": "Parking", "value": 35 },
+	{ "g1": "Transport", "g2": "Fordonsskatt", "value": 2563 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "STF", "value": 650 },
+	{ "g1": "Spending", "g2": "Blomsterlandet", "value": 129 },
+	{ "g1": "Spending", "g2": "XXL", "value": 926 },
+	{ "g1": "Spending", "g2": "Airbnb", "value": 2087 },
+	{ "g1": "Spending", "g2": "Kjell", "value": 149 },
+	{ "g1": "Spending", "g2": "Stadium", "value": 338 },
+	{ "g1": "Spending", "g2": "IKEA", "value": 157 },
+	{ "g1": "Spending", "g2": "Add Nature", "value": 1098 },
+	{ "g1": "Spending", "g2": "Book store", "value": 59 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3125 },
+	{ "g1": "Savings", "g2": "D", "value": 6000 },
+	{ "g1": "Savings", "g2": "L", "value": 0 }
+
+]
