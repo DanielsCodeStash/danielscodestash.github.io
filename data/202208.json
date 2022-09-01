@@ -1,0 +1,43 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 849 },
+	{ "g1": "Home", "g2": "Rent", "value": 2618 },
+	{ "g1": "Home", "g2": "Interest", "value": 2711 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Pharmacy", "value": 889 },
+	{ "g1": "Base", "g2": "Dental", "value": 2540 },
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Phone", "value": 247 },
+	{ "g1": "Base", "g2": "CSN", "value": 625 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+	{ "g1": "Base", "g2": "Gym", "value": 449 },
+	{ "g1": "Base", "g2": "Contact lenses", "value": 350 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 5643 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 1348 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 207 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 49 },
+
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 885 },
+	{ "g1": "Transport", "g2": "Car wash", "value": 187 },
+	{ "g1": "Transport", "g2": "Congestion tax", "value": 9 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Winter tires", "value": 6500 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Badminton", "value": 760 },
+	{ "g1": "Spending", "g2": "Books", "value": 805 },
+	{ "g1": "Spending", "g2": "Hornbach", "value": 156 },
+	{ "g1": "Spending", "g2": "Bluebox", "value": 457 },
+	{ "g1": "Spending", "g2": "Biltema", "value": 1004 },
+	{ "g1": "Spending", "g2": "Amazon", "value": 173 },
+	{ "g1": "Spending", "g2": "Flight", "value": 8323 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3125 },
+	{ "g1": "Savings", "g2": "D", "value": 1 },
+	{ "g1": "Savings", "g2": "L", "value": 1 }
+
+]
