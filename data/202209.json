@@ -1,0 +1,42 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 898 },
+	{ "g1": "Home", "g2": "Rent", "value": 2618 },
+	{ "g1": "Home", "g2": "Interest", "value": 4057 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Pharmacy", "value": 133 },
+	{ "g1": "Base", "g2": "Protein & supplements", "value": 778 },
+	{ "g1": "Base", "g2": "Dental", "value": 3758 },
+	{ "g1": "Base", "g2": "Phone", "value": 198 },
+	{ "g1": "Base", "g2": "CSN", "value": 625 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+	{ "g1": "Base", "g2": "Gym", "value": 449 },
+	{ "g1": "Base", "g2": "Contact lenses", "value": 350 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 6546 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 1268 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 238 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 207 },
+
+	{ "g1": "Transport", "g2": "Parking", "value": 27 },
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 850 },
+	{ "g1": "Transport", "g2": "Gasoline", "value": 616 },
+	{ "g1": "Transport", "g2": "Fordonsskatt", "value": 2651 },
+	{ "g1": "Transport", "g2": "Infrastructure fee", "value": 9 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Flight", "value": 737 },
+	{ "g1": "Spending", "g2": "Swimming", "value": 140 },
+	{ "g1": "Spending", "g2": "Badminton", "value": 200 },
+	{ "g1": "Spending", "g2": "Ekokul", "value": 268 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3193 },
+	{ "g1": "Savings", "g2": "D", "value": 10000 },
+	{ "g1": "Savings", "g2": "L", "value": 500 }
+
+]
