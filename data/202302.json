@@ -1,0 +1,36 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 553 },
+	{ "g1": "Home", "g2": "Rent", "value": 2749 },
+	{ "g1": "Home", "g2": "Interest", "value": 5326 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Pharmacy", "value": 1260 },
+	{ "g1": "Base", "g2": "Phone", "value": 198 },
+	{ "g1": "Base", "g2": "CSN", "value": 669 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Gym", "value": 449 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 6484 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 1528 },
+	{ "g1": "Fun", "g2": "Computer games", "value": 327 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 296 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 102 },
+
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 1094 },
+	{ "g1": "Transport", "g2": "Parking", "value": 66 },
+	{ "g1": "Transport", "g2": "Congestion tax", "value": 49 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Wien Resa", "value": 2514 },
+	{ "g1": "Spending", "g2": "Museum", "value": 130 },
+	{ "g1": "Spending", "g2": "Badminton", "value": 140 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3193 },
+	{ "g1": "Savings", "g2": "D", "value": 16500 },
+	{ "g1": "Savings", "g2": "L", "value": 8000 }
+
+]
