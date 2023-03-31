@@ -1,0 +1,40 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 470 },
+	{ "g1": "Home", "g2": "Rent", "value": 2749 },
+	{ "g1": "Home", "g2": "Interest", "value": 6197 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Pharmacy", "value": 386 },
+	{ "g1": "Base", "g2": "Protein & supplements", "value": 735 },
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Phone", "value": 198 },
+	{ "g1": "Base", "g2": "CSN", "value": 669 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+	{ "g1": "Base", "g2": "Gym", "value": 75 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 5214 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 1883 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 277 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 277 },
+	{ "g1": "Fun", "g2": "Computer games", "value": 812 },
+
+	{ "g1": "Transport", "g2": "Parking", "value": 131 },
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 835 },
+	{ "g1": "Transport", "g2": "Gasoline", "value": 565 },
+	{ "g1": "Transport", "g2": "Congestion tax", "value": 31 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Airbnb", "value": 2281 },
+	{ "g1": "Spending", "g2": "Wien Resa", "value": 10013 },
+	{ "g1": "Spending", "g2": "Stadium", "value": 527 },
+	{ "g1": "Spending", "g2": "Kjell", "value": 199 },
+	{ "g1": "Spending", "g2": "Badminton", "value": 580 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3193 },
+	{ "g1": "Savings", "g2": "D", "value": 10000 },
+	{ "g1": "Savings", "g2": "L", "value": 2000 }
+
+]
