@@ -1,0 +1,46 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 1020 },
+	{ "g1": "Home", "g2": "Rent", "value": 2749 },
+	{ "g1": "Home", "g2": "Interest", "value": 6389 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Pharmacy", "value": 3097 },
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Dental", "value": 2495 },
+	{ "g1": "Base", "g2": "Makeup", "value": 39 },
+	{ "g1": "Base", "g2": "Phone", "value": 218 },
+	{ "g1": "Base", "g2": "CSN", "value": 669 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 5524 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 1865 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 296 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 127 },
+
+	{ "g1": "Transport", "g2": "Parking", "value": 376 },
+	{ "g1": "Transport", "g2": "Gasoline", "value": 2625 },
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 658 },
+	{ "g1": "Transport", "g2": "Fordonsskatt", "value": 2713 },
+	{ "g1": "Transport", "g2": "Congestion tax", "value": 9 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Lofoten trip", "value": 4500 },
+	{ "g1": "Spending", "g2": "IKEA", "value": 246 },
+	{ "g1": "Spending", "g2": "Stadium", "value": 1827 },
+	{ "g1": "Spending", "g2": "Airbnb", "value": 351 },
+	{ "g1": "Spending", "g2": "Elgiganten", "value": 5690 },
+	{ "g1": "Spending", "g2": "Kjell", "value": 889 },
+	{ "g1": "Spending", "g2": "Amazon", "value": 1550 },
+	{ "g1": "Spending", "g2": "XXL", "value": 499 },
+	{ "g1": "Spending", "g2": "Klarna", "value": 199 },
+	{ "g1": "Spending", "g2": "Badminton", "value": 750 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3193 },
+	{ "g1": "Savings", "g2": "D", "value": 50 },
+	{ "g1": "Savings", "g2": "L", "value": 1000 }
+
+]
