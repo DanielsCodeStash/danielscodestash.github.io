@@ -1,0 +1,38 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 402 },
+	{ "g1": "Home", "g2": "Rent", "value": 2749 },
+	{ "g1": "Home", "g2": "Interest", "value": 7449 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Makeup", "value": 199 },
+	{ "g1": "Base", "g2": "Pharmacy", "value": 141 },
+	{ "g1": "Base", "g2": "Phone", "value": 218 },
+	{ "g1": "Base", "g2": "CSN", "value": 669 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 3510 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 2768 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 336 },
+	{ "g1": "Fun", "g2": "Alcohol", "value": 59 },
+
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 892 },
+	{ "g1": "Transport", "g2": "Gasoline", "value": 3538 },
+	{ "g1": "Transport", "g2": "Parking", "value": 283 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Biltema", "value": 209 },
+	{ "g1": "Spending", "g2": "IKEA", "value": 153 },
+	{ "g1": "Spending", "g2": "Lofoten trip", "value": 4307 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3193 },
+	{ "g1": "Savings", "g2": "D", "value": 12500 },
+	{ "g1": "Savings", "g2": "L", "value": 5000 },
+
+	{ "g1": "Kid", "g2": "Healthcare", "value": 900 }
+
+]
