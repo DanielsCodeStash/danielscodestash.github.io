@@ -1,0 +1,37 @@
+[
+	{ "g1": "Home", "g2": "Electricity", "value": 245 },
+	{ "g1": "Home", "g2": "Rent", "value": 2749 },
+	{ "g1": "Home", "g2": "Interest", "value": 7852 },
+	{ "g1": "Home", "g2": "Water", "value": 200 },
+	{ "g1": "Home", "g2": "Home insurance", "value": 180 },
+
+	{ "g1": "Base", "g2": "Hair cutting", "value": 199 },
+	{ "g1": "Base", "g2": "Phone", "value": 218 },
+	{ "g1": "Base", "g2": "CSN", "value": 669 },
+	{ "g1": "Base", "g2": "Bank", "value": 50 },
+	{ "g1": "Base", "g2": "Akassa", "value": 130 },
+
+	{ "g1": "Food", "g2": "Food and groceries", "value": 5759 },
+
+	{ "g1": "Fun", "g2": "Eating out", "value": 2316 },
+	{ "g1": "Fun", "g2": "Cafe", "value": 470 },
+	{ "g1": "Fun", "g2": "Streaming", "value": 376 },
+	{ "g1": "Fun", "g2": "Boardgames", "value": 536 },
+
+	{ "g1": "Transport", "g2": "Parking", "value": 29 },
+	{ "g1": "Transport", "g2": "Public Transportation", "value": 1032 },
+	{ "g1": "Transport", "g2": "Congestion tax", "value": 18 },
+	{ "g1": "Transport", "g2": "Parking home", "value": 1000 },
+	{ "g1": "Transport", "g2": "Car insurance", "value": 608 },
+
+	{ "g1": "Spending", "g2": "Zalando", "value": 526 },
+	{ "g1": "Spending", "g2": "KappAhl", "value": 356 },
+	{ "g1": "Spending", "g2": "Bauhause", "value": 567 },
+	{ "g1": "Spending", "g2": "Byggmax", "value": 14876 },
+	{ "g1": "Spending", "g2": "Babyworld", "value": 12695 },
+
+	{ "g1": "Savings", "g2": "Amortization", "value": 3193 },
+	{ "g1": "Savings", "g2": "D", "value": 0 },
+	{ "g1": "Savings", "g2": "L", "value": 0 }
+
+]
